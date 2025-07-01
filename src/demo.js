@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles/main.scss";
 
-export default function App() {
+export default function Demo() {
   return (
     <div className="min-vh-100 bg-light">
       {/* Navigation */}
